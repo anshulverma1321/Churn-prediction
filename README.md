@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project focuses on predicting **customer churn** using machine learning techniques. Customer churn refers to the situation where customers stop using a company’s product or service.
 
-By analyzing historical customer data, this project builds predictive models that identify customers at risk of churning, enabling businesses to take proactive retention measures.
+By Analyzing historical customer data, this project builds predictive models that identify customers at risk of churning, enabling businesses to take proactive retention measures.
 
 ---
 
